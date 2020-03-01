@@ -3,6 +3,6 @@ Messgae processing application, which will perform All sales must be recorded , 
 
 Technologies used:
 
-java
-Maven
+java ,
+Maven ,
 junit
